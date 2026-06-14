@@ -1,6 +1,5 @@
 {
-  "keys": [
-    "DEMO-1234-ABCD"
-  ],
+  "standard": ["DEMO-1234-ABCD"],
+  "pro": ["PRO-0000-DEMO"],
   "version": "3.0"
 }
