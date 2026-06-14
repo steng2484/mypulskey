@@ -1,5 +1,22 @@
 {
-  "standard": ["DEMO-1234-ABCD"],
-  "pro": ["PRO-0000-DEMO"],
+  "standard": [
+    "STD-USER-1001",
+    "STD-USER-1002",
+    "STD-USER-1003",
+    "STD-USER-1004",
+    "STD-USER-1005",
+    "STD-USER-1006",
+    "STD-USER-1007",
+    "STD-USER-1008",
+    "STD-USER-1009",
+    "STD-USER-1010"
+  ],
+  "pro": [
+    "PRO-EMMANUEL-4821",
+    "PRO-SEM-3947",
+    "PRO-AXEL-7263",
+    "PRO-PRINCE-5519",
+    "PRO-RIFOU-8834"
+  ],
   "version": "3.0"
 }
